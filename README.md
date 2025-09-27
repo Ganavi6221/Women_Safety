@@ -1,8 +1,8 @@
-#Arduino-based Women Safety System with flex sensors, LED, buzzer, and SMS alert feature (simulated on Tinkercad).
+## Arduino-based Women Safety System with flex sensors, LED, buzzer, and SMS alert feature (simulated on Tinkercad).
 
-**The main feature of this project is the SMS alert system. The Arduino stores the emergency contact numbers of the user and sends an SMS alert whenever the fabric sensor is triggered** 
+## The main feature of this project is the SMS alert system. The Arduino stores the emergency contact numbers of the user and sends an SMS alert whenever the fabric sensor is triggered** 
 
-##REAL WORLD APPLICATION:
+## REAL WORLD APPLICATION:
 * Considering the cost of flex sensors in the market, they can be placed only at strategic locations on the fabric where pressure is unlikely to occur during normal use. 
 * This ensures the system triggers alerts primarily in cases of harassment or emergency situations.
 
